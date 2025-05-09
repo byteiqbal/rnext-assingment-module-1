@@ -1,5 +1,5 @@
 import CopyRight from "./contents/CopyRight";
-import FooterMenus from "./contents/footerMenus";
+import FooterMenus from "./contents/FooterMenus.jsx";
 import Socials from "./contents/Social";
 import { Logo } from "./images/index";
 const footerMenuList = [
